@@ -219,8 +219,9 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-# the dataset
+# the dataset and extracted features
 /genres
+/extracted-features
 
 # the model
 best_model.ckpt
