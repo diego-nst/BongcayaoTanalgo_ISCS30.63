@@ -225,3 +225,5 @@ __marimo__/
 
 # the model
 best_model.ckpt
+
+/output-images/conf-matrices
